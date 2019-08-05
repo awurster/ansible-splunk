@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "test ansible",
+    "owner": "test owner",
+    "description": "foo desc"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "andrew"
+  }
+}
